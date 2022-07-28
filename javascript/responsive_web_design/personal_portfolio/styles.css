@@ -47,6 +47,10 @@ body {
   line-height: 1.4;
   color: var(--main-white);
 }
+.explanation{
+  font-size:145%;
+  max-width: 70%;
+}
 
 h1,
 h2,
@@ -63,7 +67,7 @@ h1 {
 }
 
 h2 {
-  font-size: 4.2rem;
+  font-size: rem;
 }
 
 ul {
